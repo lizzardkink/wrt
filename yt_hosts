@@ -1,3 +1,7 @@
+127.0.0.1 localhost
+
+::1 localhost #[IPv6]
+
 0.0.0.0 r1---sn-25ge7nls.googlevideo.com
 0.0.0.0 r1---sn-25ge7nlz.googlevideo.com
 0.0.0.0 r1---sn-25ge7nl6.googlevideo.com
